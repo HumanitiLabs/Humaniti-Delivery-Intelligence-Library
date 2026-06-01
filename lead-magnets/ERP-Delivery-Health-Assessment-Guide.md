@@ -1,11 +1,11 @@
-The 7 Hidden Constraints Limiting Delivery Capacity in ERP Implementation Firms
+**The 7 Hidden Constraints Limiting Delivery Capacity in ERP Implementation Firms**
 
 HUMANITI AI · Delivery Intelligence™ Library · Version 1.0
 Based on the ERP Delivery Health Assessment™
 A Diagnostic Guide for ERP Implementation Firms & Systems Integrators
 
 
-Executive Summary
+**Executive Summary**
 Why Your Firm Cannot Scale Delivery Without This Intelligence
 ERP Implementation Firms and Systems Integrators face a paradox: the more projects they win, the harder delivery becomes. Revenue grows. Complexity multiplies. Margins shrink. Leadership firefighting intensifies. And yet, the root cause is rarely the projects themselves.
 The root cause is invisible. It lives in the operational infrastructure — or the absence of it. It accumulates silently across five critical domains: Delivery Capacity, Delivery Visibility, Delivery Governance, Margin Protection, and Resource Intelligence.
@@ -18,7 +18,7 @@ MetricFinding73%of ERP firms report delivery bottlenecks limiting new project in
 Source: HUMANITI AI Benchmark Model · ERP Delivery Health Assessment™ Aggregate Data
 
 
-How to Use This Guide
+**How to Use This Guide**
 Each constraint is presented with four components designed to move you from recognition to action:
 
 Constraint Definition — What the operational problem is and how it forms inside ERP delivery organizations.
@@ -32,7 +32,7 @@ If you recognize three or more of these constraints in your organization, you ar
 
 The 7 Constraints
 
-Constraint 01 — Reactive Resource Allocation
+**Constraint 01 — Reactive Resource Allocation**
 Assessment Pillar: Delivery Capacity  |  HUMANITI Concept: Resource Friction™
 What It Is
 Resource decisions are made in response to crises, not in anticipation of them. By the time a staffing gap is identified, the project is already delayed, the delivery team is already overloaded, and the solution — whatever it is — will cost more than it should have. This is not a hiring problem. It is a planning infrastructure problem.
@@ -52,7 +52,7 @@ Impact AreaWhat It CostsDelivery Capacity15–25% of billable capacity consumed 
 Firms scoring below 12 on Pillar 1 (Delivery Capacity) — specifically on Q3 (Resource allocation is proactive rather than reactive) — report capacity surprises as a near-constant operational reality. The assessment identifies this as Resource Friction™: the systemic cost of demand-unaware resourcing.
 
 
-Constraint 02 — Delivery Visibility Collapse
+**Constraint 02 — Delivery Visibility Collapse**
 Assessment Pillar: Delivery Visibility  |  HUMANITI Concept: Delivery Visibility™
 What It Is
 Leadership has no consistent, real-time view across the delivery portfolio. Project health is known through escalation calls, informal check-ins, and subjective PM narrative — all of which are lagging signals. By the time a risk reaches leadership awareness, it has typically been active for weeks. What leadership sees is not delivery reality. It is a filtered, delayed, relationship-mediated version of it.
@@ -72,7 +72,7 @@ Impact AreaWhat It CostsDelivery RiskClient escalations reaching leadership 3–
 Firms scoring below 12 on Pillar 2 (Delivery Visibility) report that leadership's first signal of a troubled project is almost universally a client complaint, not an internal flag. The assessment identifies Delivery Visibility Collapse as the most common single-pillar driver of escalation volume across the ICP.
 
 
-Constraint 03 — Escalation Overload
+**Constraint 03 — Escalation Overload**
 Assessment Pillar: Delivery Governance  |  HUMANITI Concept: Escalation Velocity™
 What It Is
 Senior leaders are the default escalation point for delivery issues that should be resolved at the project or practice level. Escalation paths may exist on paper — but in practice, delivery teams bypass structured governance and take issues directly to the top. Leadership becomes the delivery infrastructure. Every unresolved issue at the delivery layer becomes a leadership problem.
@@ -92,7 +92,7 @@ Impact AreaWhat It CostsLeadership TimeSenior leaders consuming 30–45% of avai
 Firms scoring below 12 on Pillar 3 (Delivery Governance) — specifically on Q2 and Q3 — consistently report escalation volume as their primary leadership time drain. The assessment quantifies this as Escalation Velocity™: the rate at which unresolved issues accelerate upward through the organization.
 
 
-Constraint 04 — Scope Creep Without Margin Recovery
+**Constraint 04 — Scope Creep Without Margin Recovery**
 Assessment Pillar: Margin Protection  |  HUMANITI Concept: Margin Leakage™
 What It Is
 Scope changes are accommodated during delivery without formal change control, margin impact analysis, or client repricing. Delivery teams absorb expanded scope as a relationship investment — because enforcing change control feels uncomfortable, and because no governance structure exists to back them up when they try. The firm delivers more. The client pays for the original scope. The margin disappears quietly.
@@ -112,7 +112,7 @@ Impact AreaWhat It CostsMargin20–35% of actual delivery scope is unpriced expa
 Firms scoring below 12 on Pillar 4 (Margin Protection) — specifically on Q2 (Scope changes are controlled) and Q1 (Project profitability is actively monitored) — frequently discover on project closeout that 20–35% of actual scope was uncontrolled expansion that was never billed. The assessment identifies this as Margin Leakage™.
 
 
-Constraint 05 — Key-Person Dependency
+**Constraint 05 — Key-Person Dependency**
 Assessment Pillar: Resource Intelligence  |  HUMANITI Concept: Delivery Debt™
 What It Is
 Delivery capability is concentrated in 2–4 individuals. Critical knowledge — client context, architectural decisions, escalation relationships, delivery methodology — lives in people's heads and is not documented, not transferred, and not replaceable on short notice. The firm's delivery capacity is as resilient as its most critical individual's availability. Which means it is not resilient at all.
@@ -132,7 +132,7 @@ Impact AreaWhat It CostsDelivery ResilienceSingle-point-of-failure risk across t
 Firms scoring below 12 on Pillar 5 (Resource Intelligence) — specifically on Q4 (Key-person dependency is low) — cannot name a structured process for any of their three most critical delivery decisions. The answer is always a person's name. The assessment identifies this as Delivery Debt™: the accumulation of operational risk deferred through individual heroics.
 
 
-Constraint 06 — Project Manager Overload
+**Constraint 06 — Project Manager Overload**
 Assessment Pillar: Delivery Capacity  |  HUMANITI Concept: Delivery Debt™
 What It Is
 Project managers are carrying more concurrent projects than governance structures or quality standards can support. They compensate through longer hours, informal coordination, and personal relationship management — masking a structural capacity problem until delivery quality deteriorates. The firm mistakes heroic effort for organizational capability. It is not. It is a quality ceiling that the firm will eventually hit.
@@ -152,7 +152,7 @@ Impact AreaWhat It CostsDelivery QualityQuality degrades proportionally to PM ov
 Firms scoring below 12 on Pillar 1 Q4 (Project managers are not overloaded) have PMs managing 4–7 concurrent projects with no documented prioritization model. The assessment identifies PM overload as a secondary form of Delivery Debt™ — structural capacity deferred through individual effort.
 
 
-Constraint 07 — Demand Forecasting Absence
+**Constraint 07 — Demand Forecasting Absence**
 Assessment Pillar: Resource Intelligence  |  HUMANITI Concept: Resource Friction™
 What It Is
 The firm cannot predict its resourcing requirements beyond confirmed, signed contracts. Pipeline signals do not translate into resourcing decisions until contracts are executed — at which point the lead time to deploy the right resource is already a problem. Sales and delivery operate as sequential functions, not as an integrated planning system. Every new project starts the resourcing clock from zero.
@@ -192,13 +192,13 @@ Top 3 constraints identified by pillar
 Recommended next diagnostic for your lowest-scoring area
 A complimentary 30-minute Delivery Intelligence Review with a HUMANITI advisor
 
-👉 Take the Free Assessment → humaniti.ai/assessment
+👉 **Take the Free Assessment → humaniti.ai/assessment**
 Or book your Delivery Intelligence Review directly at humaniti.ai/review
 
 Your Next Step Based on Your Score
 ScoreBandRecommended Action0 – 40Critical / Friction ZoneImmediate paid diagnostic recommended. Active delivery and margin loss occurring now.41 – 60Growing Delivery RiskBook a discovery call within 48 hours. High urgency, high motivation to act.61 – 80Operationally MatureBenchmark report + executive briefing. Gaps identified, selective buyer mode.81 – 100Delivery Intelligence LeaderThought leadership partnership. Referral network and certification program.
 
-About HUMANITI AI
+**About HUMANITI AI**
 We help ERP Implementation Firms and Systems Integration Firms increase delivery capacity, improve project margins, and reduce operational friction — without adding management overhead or increasing operational complexity.
 humaniti.ai
 
